@@ -5,6 +5,9 @@ app = Flask(__name__)
 app.secret_key = "tsdt-2024-demo"
 db = {}
 
+
+#1
+
 INDEX_HTML = '''
 <!doctype html>
 <html lang="en">
